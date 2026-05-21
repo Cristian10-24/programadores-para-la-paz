@@ -1,0 +1,19 @@
+{
+  "name": "semana-4",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Cristian Bedoya",
+  "license": "MIT",
+  "description": "Servidor Express básico",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
