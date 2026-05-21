@@ -1,0 +1,8 @@
+http://localhost:3000
+Esta es la ruta principal que muestra el mensaje “Servidor activo”, indicando que el servidor está funcionando correctamente.
+
+http://localhost:3000/saludo
+Esta ruta responde con el mensaje “Hola comunidad” cuando se accede desde el navegador.
+
+http://localhost:3000/mensaje/juan
+Esta ruta usa un parámetro dinámico que en este caso es el nombre y lo guarda para luego mostrarlo en el mensaje. En este caso, toma el nombre “cristian” y responde con el mensaje “Hola cristian.

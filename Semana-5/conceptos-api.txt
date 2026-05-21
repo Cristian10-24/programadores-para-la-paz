@@ -1,0 +1,12 @@
+app.post('/reporte', (req, res) => {
+  const mensaje = req.body.mensaje;
+  res.json({
+    estado: "Reporte recibido",
+    mensaje: mensaje
+  });
+});
+
+
+Esta ruta sirve para recibir un reporte enviado por una persona desde la aplicación. El servidor toma el mensaje que llega y responde confirmando que el reporte fue recibido correctamente.
+
+En una aplicación comunitaria podría usarse para que los ciudadanos envíen avisos, sugerencias o problemas de su barrio, por ejemplo reportar basura, daños en las calles o situaciones de seguridad. Así se facilita la comunicación y la organización dentro de la comunidad.
