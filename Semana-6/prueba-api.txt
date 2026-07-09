@@ -1,0 +1,11 @@
+Al realizar la prueba enviando una petición **POST** a la ruta `http://localhost:3000/registro` con los datos en formato JSON, el servidor respondió:
+
+```json
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+```
+
+Esto significa que la petición fue recibida correctamente y que el servidor pudo leer la información enviada. Gracias a `express.json()`, los datos del JSON fueron procesados y almacenados en `req.body`, permitiendo que el servidor devolviera una respuesta con el mismo contenido recibido junto con el mensaje **"Datos recibidos"**, confirmando que la comunicación entre el cliente y el servidor funciona correctamente.
