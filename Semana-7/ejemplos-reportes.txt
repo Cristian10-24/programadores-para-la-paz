@@ -1,0 +1,17 @@
+{
+    "mensaje": "Reporte registrado",
+    "reporte": {
+        "id": 2,
+        "tipo": "Seguridad",
+        "descripcion": "Se reporta una luminaria dañada que deja la calle sin iluminación durante la noche."
+    }
+}
+
+{
+    "mensaje": "Reporte registrado",
+    "reporte": {
+        "id": 3,
+        "tipo": "Movilidad",
+        "descripcion": "Se presenta un hueco de gran tamaño en la vía principal que dificulta el tránsito de vehículos."
+    }
+}
