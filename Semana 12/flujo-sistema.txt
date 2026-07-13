@@ -1,0 +1,5 @@
+1. Un ciudadano crea una causa para solicitar la reparación de los huecos en la Calle 10 de su barrio.
+2. El sistema registra la causa y la almacena en la base de datos con su descripción y ubicación.
+3. Los vecinos ingresan a la plataforma y apoyan la petición con sus datos básicos.
+4. El sistema contabiliza automáticamente el número de apoyos recibidos y muestra el avance de la campaña.
+5. Al alcanzar la cantidad de apoyos esperada, el sistema genera un documento PDF con la petición y las firmas de apoyo para presentarlo a la Alcaldía y solicitar la reparación de la vía.

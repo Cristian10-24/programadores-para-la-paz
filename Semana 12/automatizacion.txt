@@ -1,0 +1,5 @@
+Evento: La causa alcanza 100 apoyos registrados.
+
+Mensaje: "La petición 'Reparación del parque del barrio' ha alcanzado 100 apoyos y está lista para generar el documento oficial."
+
+Información que no debe enviarse: nombres completos de los ciudadanos, números de identificación, correos electrónicos, teléfonos ni cualquier otro dato personal de quienes apoyaron la causa.
